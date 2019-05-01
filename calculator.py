@@ -154,3 +154,5 @@ btnSto.grid(row=14, column=0, padx=6, pady=6)
 btnOn.grid(row=16, column=0, padx=6, pady=6)
 
 panel.mainloop()
+
+#new message
